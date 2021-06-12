@@ -4090,7 +4090,7 @@ def km_pose(params):
         ("pose.bone_layers", {"type": 'M', "value": 'PRESS'}, None),
         ("transform.bbone_resize", {"type": 'S', "value": 'PRESS', "ctrl": True, "alt": True}, None),
         ("anim.keyframe_insert_menu", {"type": 'I', "value": 'PRESS'}, None),
-        ("anim.keyframe_delete", {"type": 'I', "value": 'PRESS', "alt": True}, None),        
+        ("anim.keyframe_delete", {"type": 'I', "value": 'PRESS', "alt": True}, None),
         ("anim.keying_set_active_set", {"type": 'I', "value": 'PRESS', "shift": True, "ctrl": True, "alt": True}, None),
         ("poselib.browse_interactive", {"type": 'L', "value": 'PRESS', "alt": True}, None),
         ("poselib.pose_add", {"type": 'L', "value": 'PRESS', "shift": True}, None),
